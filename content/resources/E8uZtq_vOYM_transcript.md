@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/ibrahim-publish-test-ibrahim-publish-test-spring-2022/E8uZtq_vOYM_transcript.pdf
-file_size: 123
+file_size: 18072
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
